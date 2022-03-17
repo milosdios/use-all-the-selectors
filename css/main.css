@@ -1,5 +1,6 @@
 html {
     box-sizing: border-box;
+    background-color: #fdf6e3;
 }
 
 *, *::before, *::after {
@@ -31,7 +32,7 @@ p > .dfn {
 }
 
 h2 + strong {
-  color: #FFF;
+  color: #fff;
 }
 
 a:not(.no-highlight) {
