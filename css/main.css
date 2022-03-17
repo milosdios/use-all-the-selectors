@@ -1,6 +1,6 @@
 html {
-    box-sizing: border-box;
-    background-color: #fdf6e3;
+  box-sizing: border-box;
+  background-color: #fdf6e3;
 }
 
 *, *::before, *::after {
@@ -14,6 +14,7 @@ header, footer {
 nav ul {
   font-family: sans-serif;
 }
+
 h1 {
   text-transform: uppercase;
 }
@@ -25,7 +26,6 @@ main {
 #contents, #favs, #facts, #types {
   color: #93a1a1;
 }
-
 
 p > .dfn {
   background-color: #b58900;
